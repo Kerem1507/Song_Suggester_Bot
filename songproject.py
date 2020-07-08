@@ -11,7 +11,7 @@ print("""
 3- SOUNDTRACKS
 
 Pick a genre and then I randomly choose a song!
-(If you want to quit program, press 'q'.)
+(If you want to quit the program, press 'q'.)
 
 """)
 
