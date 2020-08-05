@@ -45,8 +45,6 @@ while True:
     for span in videospan:
         songs.append(span.text)
 
-    
-
     print("Enjoy your song!: ", random.choice(songs))
     songs.clear()
 
